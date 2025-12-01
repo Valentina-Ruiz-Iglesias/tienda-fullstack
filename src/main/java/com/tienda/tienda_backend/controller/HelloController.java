@@ -1,3 +1,4 @@
+//EJEMPLO PRUEBA PARA VALIDAR SI FUNCIONA 
 package com.tienda.tienda_backend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
